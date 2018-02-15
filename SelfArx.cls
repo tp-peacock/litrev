@@ -105,7 +105,7 @@ justification=raggedright]{caption}
   {#1}
   []
 \titleformat{\subsubsection}
-  {\sffamily\small\bfseries}
+  {\color{color1}\sffamily\small\bfseries}
   {\thesubsubsection}
   {0.5em}
   {#1}
